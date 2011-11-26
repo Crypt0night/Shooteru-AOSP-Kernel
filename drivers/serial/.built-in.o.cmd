@@ -1,0 +1,1 @@
+cmd_drivers/serial/built-in.o :=  arm-2010q1/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/serial/built-in.o drivers/serial/serial_core.o drivers/serial/msm_serial_hs.o drivers/serial/msm_serial_hs_ti.o drivers/serial/msm_serial_hs_ti_dc.o drivers/serial/msm_serial_hs_bcm.o drivers/serial/msm_serial_hs_brcm.o drivers/serial/msm_serial_hs_lite.o 
