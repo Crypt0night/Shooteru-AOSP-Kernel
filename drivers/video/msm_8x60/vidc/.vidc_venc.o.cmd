@@ -1,0 +1,1 @@
+cmd_drivers/video/msm_8x60/vidc/vidc_venc.o := arm-2010q1/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/video/msm_8x60/vidc/vidc_venc.o drivers/video/msm_8x60/vidc/common/enc/venc.o drivers/video/msm_8x60/vidc/common/enc/venc_internal.o 

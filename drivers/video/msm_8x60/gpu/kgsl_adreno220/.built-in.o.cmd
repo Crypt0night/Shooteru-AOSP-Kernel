@@ -1,0 +1,1 @@
+cmd_drivers/video/msm_8x60/gpu/kgsl_adreno220/built-in.o :=  arm-2010q1/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/video/msm_8x60/gpu/kgsl_adreno220/built-in.o drivers/video/msm_8x60/gpu/kgsl_adreno220/msm_kgsl.o 

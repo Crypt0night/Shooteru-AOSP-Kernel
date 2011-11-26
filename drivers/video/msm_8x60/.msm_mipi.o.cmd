@@ -1,0 +1,1 @@
+cmd_drivers/video/msm_8x60/msm_mipi.o := arm-2010q1/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/video/msm_8x60/msm_mipi.o drivers/video/msm_8x60/mipi_dsi.o drivers/video/msm_8x60/mipi_dsi_host.o 
